@@ -11,7 +11,7 @@ This software was created by kpoovakan.
 <a href="https://scratch.mit.edu/users/kpoovakan">Scratch Profile</a>  
 <a href="https://github.com/kpoovakan">Github Profile</a>  
  
-Fonts used: Serif and <a href="https://www.dafont.com/oldnewspapertypes.font">Old Newspaper Types</a>
+Fonts used: Serif and <a href="https://www.dafont.com/oldnewspapertypes.font">Old Newspaper Types</a>  
 Programs used to create the software include <a href="https://scratch.mit.edu">Scratch</a>, <a href="https://turbowarp.org">Turbowarp</a>, and <a href="https://github.com">Github</a>.  
 The Turbowarp extension used was created by <a href="https://scratch.mit.edu/users/LilyMakesThings">LilyMakesThings</a>.
  
